@@ -20,9 +20,9 @@ class Ceo extends StatelessWidget
                                
                              ),
                      body: Column
-                             (
-                               
-                             ),
+                           (
+                             
+                           ),
                    ),
            );
   }
